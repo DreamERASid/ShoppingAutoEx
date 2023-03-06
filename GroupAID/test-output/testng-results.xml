@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T07:13:36 IST" name="Suite" finished-at="2023-03-06T07:15:27 IST" duration-ms="111127">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T07:13:36 IST" name="RegressionSuite" finished-at="2023-03-06T07:15:27 IST" duration-ms="111127">
+      <class name="com.Shopping.TestCases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Shopping.TestCases.HomePageTest@18df8434]" started-at="2023-03-06T07:14:52 IST" name="setUp" finished-at="2023-03-06T07:15:12 IST" duration-ms="20122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPageTitle()[pri:0, instance:com.Shopping.TestCases.HomePageTest@18df8434]" started-at="2023-03-06T07:15:12 IST" name="verifyPageTitle" finished-at="2023-03-06T07:15:13 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Shopping.TestCases.HomePageTest@18df8434]" started-at="2023-03-06T07:15:13 IST" name="teardown" finished-at="2023-03-06T07:15:14 IST" duration-ms="871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Shopping.TestCases.HomePageTest@18df8434]" started-at="2023-03-06T07:15:14 IST" name="setUp" finished-at="2023-03-06T07:15:26 IST" duration-ms="12340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageLanding()[pri:1, instance:com.Shopping.TestCases.HomePageTest@18df8434]" started-at="2023-03-06T07:15:26 IST" name="verifyHomePageLanding" finished-at="2023-03-06T07:15:26 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageLanding -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Shopping.TestCases.HomePageTest@18df8434]" started-at="2023-03-06T07:15:26 IST" name="teardown" finished-at="2023-03-06T07:15:27 IST" duration-ms="1184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Shopping.TestCases.HomePageTest -->
+      <class name="com.Shopping.TestCases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Shopping.TestCases.LoginTest@51e69659]" started-at="2023-03-06T07:13:37 IST" name="setUp" finished-at="2023-03-06T07:14:22 IST" duration-ms="44991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyvalidlogin()[pri:0, instance:com.Shopping.TestCases.LoginTest@51e69659]" started-at="2023-03-06T07:14:22 IST" name="verifyvalidlogin" finished-at="2023-03-06T07:14:50 IST" duration-ms="28504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyvalidlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Shopping.TestCases.LoginTest@51e69659]" started-at="2023-03-06T07:14:50 IST" name="teardown" finished-at="2023-03-06T07:14:52 IST" duration-ms="1919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Shopping.TestCases.LoginTest -->
+    </test> <!-- RegressionSuite -->
+  </suite> <!-- Suite -->
+</testng-results>
